@@ -1,3 +1,4 @@
+# Dockerfile for Java Demo App
 FROM openjdk:8-jre-alpine
 
 EXPOSE 8080
